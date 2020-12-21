@@ -1,4 +1,5 @@
 # cs320
 I created test cases to efficiently test my code and ensure it adhered to the requirements. My first task was to create test cases to PASS/FAIL, which tests the user's input. In these scenarios, the test cases I used had getters and setters to test the requirements of specific fields such as " First name," "last name," address," " description field," " appointment, "appointment date," which had to be an upcoming date otherwise, the test cases would fail. 
 I opted to use Assert true and false when comparing to a set value. I opted to use Assert equals when comparing a field's length after setting the value ( setters and getters method).
+
 My approach was methodical yet efficient, I tried to simplify my code.  I recognize my strength and comfortability laid in creating methods.  I used the same techniques in all the classes. This made my code more effortless for me to navigate. I also went over the instructions and ensured I had a clear understanding before tackling the project. I tested my project to ensure my test cases were producing accurate results. 
